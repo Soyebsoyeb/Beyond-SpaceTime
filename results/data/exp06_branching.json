@@ -1,0 +1,12 @@
+{
+  "branch_weight_entropy": 0.6108643020548935,
+  "dephasing_max_abs_error_vs_analytic": 6.839183108731106e-10,
+  "noncommuting": {
+    "ln2": 0.6931471805599453,
+    "max_entropy": 0.692280624565241,
+    "max_hermiticity_error": 2.7755575615628914e-17,
+    "max_trace_error": 1.1102230246251565e-15,
+    "min_eigenvalue_over_time": 8.326672684688674e-16,
+    "qutip_vs_dense_expm_max_diff": 3.9874853831491677e-10
+  }
+}

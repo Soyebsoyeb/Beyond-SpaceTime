@@ -1,0 +1,6 @@
+{
+  "K_at_horizon_M1": 0.75,
+  "kretschmann_symbolic": "48*M**2/r**6",
+  "ricci_vanishes": 1,
+  "tortoise_divergence_check": -53.261864438593264
+}

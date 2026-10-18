@@ -1,0 +1,12 @@
+{
+  "angle_closed_form_max_diff": 2.6645352591003757e-15,
+  "araki_lieb_saturation_error": 0.0,
+  "bh_vs_cardy_entropy_max_diff": 8.881784197001252e-16,
+  "er_bridge_max_abs_diff": 1.000017846308765e-10,
+  "rt_vs_cft_max_abs_diff": 1.4381660307094535e-09,
+  "tfd_entropy_max_diff": 4.163336342344337e-15,
+  "tfd_no_signalling_max_deviation": 3.0531133177191805e-16,
+  "tfd_signal_at_g0": -1.1102230246251565e-16,
+  "tfd_signal_at_g0.3": 0.2769708501853144,
+  "transition_angle_rplus_1.5": 5.8211409843139394
+}

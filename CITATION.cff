@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Beyond Spacetime: a computational investigation of Einstein-Rosen bridges, singularities, holography, quantum branching and time reversal"
+type: software
+version: 0.1.0
+date-released: 2026-10-14
+license: MIT
+authors:
+  - name: "Beyond Spacetime contributors"
+abstract: >-
+  Verified computational study of Schwarzschild interiors, Einstein-Rosen bridges,
+  a regular-black-hole effective model, BTZ holography, quantum branching,
+  time reversal, wormholes and closed timelike curves.
+keywords:
+  - general relativity
+  - black holes
+  - holography
+  - quantum information
+  - computational physics

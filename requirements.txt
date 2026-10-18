@@ -1,0 +1,7 @@
+# Exact versions used to produce the committed figures and result files (Python 3.13).
+numpy==2.5.3
+scipy==1.18.1
+sympy==1.14.0
+matplotlib==3.11.2
+qutip==5.3.1
+pytest==9.1.1

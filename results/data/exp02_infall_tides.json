@@ -1,0 +1,33 @@
+{
+  "deviation_final": {
+    "tau_end": 19.590647479499445,
+    "xi_perp": 0.12493277820428958,
+    "xi_r": 12.393550180316844
+  },
+  "deviation_validation_max_rel_err": 0.0008506968563754392,
+  "infall": [
+    {
+      "E": 0.9128709291752769,
+      "tau_end": 46.17177897833774,
+      "tau_horizon": 44.76511054673945,
+      "tau_inside": 1.4066684315982911
+    },
+    {
+      "E": 1.0,
+      "tau_end": 19.595903035146538,
+      "tau_horizon": 18.262584608933423,
+      "tau_inside": 1.3333184262131148
+    },
+    {
+      "E": 1.5,
+      "tau_end": 8.947091635772722,
+      "tau_horizon": 7.924415151183777,
+      "tau_inside": 1.0226764845889447
+    }
+  ],
+  "spaghettification_crossover_solar_masses": 14521.08192856043,
+  "tau_inside_E0_over_pi": 1.0000000000002087,
+  "tau_inside_E1": 1.3333333333333337,
+  "tidal_acceleration_2m_at_horizon_10Msun_m_s2": 206096633.29166126,
+  "tidal_acceleration_2m_at_horizon_4e6Msun_m_s2": 0.0012881039580728826
+}

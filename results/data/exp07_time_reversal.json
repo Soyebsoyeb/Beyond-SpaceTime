@@ -1,0 +1,14 @@
+{
+  "cat_map": {
+    "S_after_roundtrip": -0.0,
+    "S_final": 4.1571484691189315,
+    "S_max": 4.1588830833596715,
+    "float_err_t10": 2.3000004678586095e-12,
+    "float_err_t40": 0.47904338720096973,
+    "integer_err_max": 0,
+    "lyapunov": 0.9624236501192069
+  },
+  "heat_error_at_120_steps": 341030848208162.56,
+  "kruskal_time_reversal_invariance_error": 0.0,
+  "wave_error_max": 3.1086244689504383e-15
+}

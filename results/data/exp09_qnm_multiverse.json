@@ -1,0 +1,41 @@
+{
+  "leaver": {
+    "s0_l2_n0": {
+      "im": -0.09675877597828786,
+      "re": 0.483643872210713
+    },
+    "s2_l2_n0": {
+      "im": -0.08896231568893571,
+      "re": 0.3736716844180418
+    },
+    "s2_l2_n1": {
+      "im": -0.2739148752912348,
+      "re": 0.34671099687916346
+    },
+    "s2_l3_n0": {
+      "im": -0.09270304794494759,
+      "re": 0.5994432884374901
+    }
+  },
+  "multiverse_status": {
+    "bounce": "prediction dependent on extra assumptions",
+    "inflation": "prediction dependent on extra assumptions",
+    "kruskal": "feature of the equations",
+    "mwi": "interpretive proposal"
+  },
+  "published_comparison_max_abs_diff": 1.1224021712136212e-05,
+  "time_domain": {
+    "grav_l2": {
+      "im": -0.0889693479974792,
+      "re": 0.3736757852736523,
+      "ref_im": -0.08896231568893571,
+      "ref_re": 0.3736716844180418
+    },
+    "scalar_l2": {
+      "im": -0.09674640641815828,
+      "re": 0.48362316293995594,
+      "ref_im": -0.09675877597828786,
+      "ref_re": 0.483643872210713
+    }
+  }
+}
